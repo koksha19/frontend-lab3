@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.top {
+    height: 15%;
+    background: #66d0f0;
+    line-height: 15vh;
+}
+
+.col {
+    float: left;
+    line-height: 70vh;
+}
+
+.col1 {
+    width: 30%;
+    background: #90ee90;
+}
+
+.col2 {
+    width: 40%;
+    background: #ffff99;
+}
+
+.col3 {
+    width: 30%;
+    background: #eeaaff;
+}
+
+.bottom {
+    background: #f9e4aa;
+    line-height: 15vh;
+}
